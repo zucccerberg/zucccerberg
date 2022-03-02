@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zucccerberg
 - 👀 I’m interested in fishing
 - 🌱 I’m currently growing up
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: davi.bosch@outlook.com (private)
 
 <!---
